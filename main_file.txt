@@ -1,0 +1,3 @@
+Adding this line in main_file.txt git add
+Adding this line in main_file.txt
+Adding this line in main_file.txt git add --abort
