@@ -1,0 +1,1 @@
+1st line content in rule.txt in main branch
