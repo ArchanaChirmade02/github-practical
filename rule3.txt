@@ -1,1 +1,2 @@
 1st line content to rule3.file
+2nd line content
