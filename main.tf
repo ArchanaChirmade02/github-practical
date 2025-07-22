@@ -6,6 +6,6 @@ resource "aws_vpc" "terraform_test_vpc" {
   enable_dns_support   = false
  
   tags = {
-    Name = "terraform_test2_vpc1"
+    Name = "terraform_test2_vpc"
   }
 }
