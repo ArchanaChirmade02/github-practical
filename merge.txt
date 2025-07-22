@@ -2,3 +2,4 @@
 appended some lines to merge.txt
 replacing the content of this file to merge later in merge_branch
 added chnage for remote merge
+added 5th line
